@@ -6,6 +6,10 @@ build/
 # 构建临时文件
 sources.txt
 testout.txt
+probe.txt
+
+# 调试抓帧（非正式交付素材）
+docs/_debug/
 
 # 日志与崩溃转储
 *.log
