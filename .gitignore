@@ -1,0 +1,27 @@
+# 编译输出
+classes/
+testclasses/
+build/
+
+# 构建临时文件
+sources.txt
+testout.txt
+
+# 日志与崩溃转储
+*.log
+hs_err_pid*
+replay_pid*
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# 系统
+Thumbs.db
+.DS_Store
